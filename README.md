@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Krypticz
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning Computer Science at the University of Texas at El Paso
